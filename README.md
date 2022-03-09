@@ -47,7 +47,7 @@
 	</tr>
   <tr>
 		<td>15.2</td>
-		<td><a href="hhttps://github.com/c-stev/sololearn-r/tree/db01a20958b3c5a26957e32a75bb85afdf5bfd00/solutions/15.2">Star Of The Show</a></td>
+		<td><a href="https://github.com/c-stev/sololearn-r/tree/db01a20958b3c5a26957e32a75bb85afdf5bfd00/solutions/15.2">Star Of The Show</a></td>
 	</tr>
   <tr>
 		<td>16.2</td>
